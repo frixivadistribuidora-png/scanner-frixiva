@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Inventory Barcode Scanner",
+  "description": "An application to scan product barcodes using the device's camera, automatically adding them to an inventory list and tracking quantities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
